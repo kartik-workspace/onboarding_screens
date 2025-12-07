@@ -2,7 +2,7 @@
  * ---------------------------------------------------------------
  * File: ScreenFirst.kt
  * Author: Kartik Waghmare
- * Created: 11 Feb 2025
+ * Created: 12 Feb 2025
  *
  * Purpose:
  *  First screen of the onboarding flow.
