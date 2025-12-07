@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Visit Health Application</string>
+    <string name="onboarding_finished">Onboarding Finished!</string>
+    <string name="cashbacks_and_beyond">Cashbacks, and Beyond</string>
+    <string name="victory_unlocks_spectacular_vouchers">Victory Unlocks Spectacular Vouchers,\n</string>
+    <string name="score_big">Score Big!!</string>
+    <string name="back">Back</string>
+    <string name="claim_the_throne">Claim the Throne</string>
+    <string name="compete_with_your_colleagues_for_top_ranks">Compete with your colleagues for Top Ranks</string>
+    <string name="next_button">Next Button</string>
+    <string name="step_up_and_score">Step Up and Score</string>
+    <string name="join_the_race_lace_up_and_embrace_health">Join the Race, Lace Up, and\nEmbrace Health!</string>
+    <string name="back_">Back</string>
+    <string name="pagetransition">pageTransition</string>
+    <string name="trophyoffsetx">trophyOffsetX</string>
+    <string name="trophyoffsety">trophyOffsetY</string>
+    <string name="trophyalpha">trophyAlpha</string>
+    <string name="trophyscale">trophyScale</string>
+</resources>
