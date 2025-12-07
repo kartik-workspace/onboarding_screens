@@ -2,13 +2,13 @@
 
 # 👨‍💻 Kartik Waghmare  
 ### Android Developer | Jetpack Compose | Motion UI  
-📍 Pune, India  
+📍 Noida, India  
 
 🔗 **LinkedIn:**  
-https://www.linkedin.com/in/kartik-waghmare-450a9a261/
+[https://www.linkedin.com/in/kartik-waghmare-450a9a261/](https://www.linkedin.com/in/kartik-waghmare-450a9a261/)
 
 📸 **Instagram:**  
-https://instagram.com/articulatekartik  
+[https://instagram.com/articulatekartik](https://instagram.com/mr_illusionist_kartik)
 
 ---
 
@@ -18,8 +18,12 @@ https://instagram.com/articulatekartik
 ---
 
 ## 🎥 Live Demo Video  
-▶️ **Click to view:**  
-https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_video.mp4  
+
+<a href="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_video.mp4">
+    <img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_one.jpeg" width="600" />
+    <br>
+    ▶️ **Click Here to Watch Full Demo**
+</a>
 
 </div>
 
@@ -27,14 +31,18 @@ https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/
 
 ## 📸 Screenshots
 
-### **Screen 1**  
-https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_one.jpeg
+### **Screen 1**
+<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_one.jpeg" width="350"/>
 
-### **Screen 2**  
-https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_two.jpeg
+---
 
-### **Screen 3**  
-https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_three.jpeg
+### **Screen 2**
+<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_two.jpeg" width="350"/>
+
+---
+
+### **Screen 3**
+<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_three.jpeg" width="350"/>
 
 ---
 
@@ -42,15 +50,14 @@ https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/
 
 This project demonstrates a **high-quality animated onboarding experience** built with:
 
-- Shared element transitions  
-- Lottie animated backgrounds  
-- Smooth motion easing  
-- Pixel-perfect composition design  
-- Image-based glossy buttons  
-- Montserrat custom typography  
-- Clean architecture and reusable components  
+- Smooth shared element transitions (robot → trophy → gift)
+- Lottie animated gradient star backgrounds  
+- Crisp motion easing & multi-screen animation flow  
+- Premium glossy image buttons  
+- Custom Montserrat typography  
+- Clean modular architecture  
 
-Designed for production-level onboarding screens.
+A fully production-ready onboarding experience.
 
 ---
 
@@ -61,9 +68,7 @@ Designed for production-level onboarding screens.
 - **Material 3**
 - **Lottie Animations**
 - **Custom Fonts**
-- **Android Studio Hedgehog/Jellyfish**
-
----
+- **Compose Motion Animations**
 
 ---
 
