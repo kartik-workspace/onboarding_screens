@@ -1,108 +1,90 @@
 <div align="center">
 
-# 🚀 Step-a-thon — Animated Onboarding Flow  
-### A Premium Jetpack Compose UI Experience  
+# 👨‍💻 Kartik Waghmare  
+### Android Developer | Jetpack Compose | Motion UI  
+📍 Pune, India  
 
-![GitHub stars](https://img.shields.io/github/stars/kartik-workspace/onboarding_screens?style=flat&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/kartik-workspace/onboarding_screens?style=flat&color=orange)
-![GitHub repo size](https://img.shields.io/github/repo-size/kartik-workspace/onboarding_screens?color=blue)
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/kartik-waghmare-450a9a261/
+
+📸 **Instagram:**  
+https://instagram.com/articulatekartik  
 
 ---
 
-## 🎥 Live Preview (Onboarding Demo Video)
+# 🚀 Step-a-thon — Animated Onboarding Flow  
+### A Premium Jetpack Compose Motion UI Experience  
 
-https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_video.mp4
+---
+
+## 🎥 Live Demo Video  
+▶️ **Click to view:**  
+https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_video.mp4  
 
 </div>
 
 ---
 
+## 📸 Screenshots
+
+### **Screen 1**  
+https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_one.jpeg
+
+### **Screen 2**  
+https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_two.jpeg
+
+### **Screen 3**  
+https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_three.jpeg
+
+---
+
 ## 🎯 Overview
 
-**Step-a-thon** is a beautifully crafted **Jetpack Compose onboarding flow** featuring:
+This project demonstrates a **high-quality animated onboarding experience** built with:
 
-- ✨ Shared element transitions  
-- 🎁 Lottie-powered animated backgrounds  
-- 🤖 Character fade animations  
-- 🎨 Premium gradients & glowing UI  
-- 🖼 Image-based buttons straight from Figma  
-- 🎯 Pixel-perfect motion & typography  
-- 📱 Modern, smooth, high-performance animations  
+- Shared element transitions  
+- Lottie animated backgrounds  
+- Smooth motion easing  
+- Pixel-perfect composition design  
+- Image-based glossy buttons  
+- Montserrat custom typography  
+- Clean architecture and reusable components  
 
-This project is ideal for **real production onboarding flows**, **portfolio UI**, or **learning advanced Compose animations**.
+Designed for production-level onboarding screens.
 
 ---
 
 ## 🛠 Tech Stack
 
-| Technology | Badge |
-|-----------|--------|
-| Kotlin | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) |
-| Jetpack Compose | ![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white) |
-| Material 3 | ![Material](https://img.shields.io/badge/Material%20Design-757575?logo=materialdesign&logoColor=white) |
-| Lottie Animation | ![Lottie](https://img.shields.io/badge/Lottie-00D2A0?logo=lottie&logoColor=white) |
-| Android Studio | ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) |
+- **Kotlin**
+- **Jetpack Compose**
+- **Material 3**
+- **Lottie Animations**
+- **Custom Fonts**
+- **Android Studio Hedgehog/Jellyfish**
 
 ---
-
-## 📸 Screenshots
-
-| Screen 1 | Screen 2 | Screen 3 |
-|----------|----------|----------|
-| ![Screen 1](https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_one.jpeg) | ![Screen 2](https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_two.jpeg) | ![Screen 3](https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_three.jpeg) |
-
----
-
-
-
----
-
-## ✨ Feature Highlights
-
-### 🏆 Shared Element Animations  
-Trophy & Gift smoothly animate between screens using:
-
-- Offset transitions  
-- Scale animations  
-- Alpha blending  
-- Center-based motion path  
-
-### 🎨 Premium UI  
-- Gradient backgrounds  
-- Glowing text  
-- Figma-accurate positioning  
-- Custom fonts (Montserrat Medium + SemiBold)  
-- Ultra-clean layout spacing & alignment  
-
-### 🎬 Animated Background  
-- PNG radial star  
-- Lottie-driven rotation + breathing glow  
-
-### 🖼 Image Buttons  
-- Extracted directly from design  
-- Stretch-safe and pixel-perfect  
 
 ---
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
-
+### Clone the repository
 ```bash
 git clone https://github.com/kartik-workspace/onboarding_screens.git
-2️⃣ Open in Android Studio
-Let Gradle sync.
 
-3️⃣ Run the app
-On any device or emulator.
-Onboarding starts automatically.
 
-👨‍💻 Author
-Kartik Waghmare
-Android Developer • Jetpack Compose • Motion UI
-📍 Pune, India
+Open in Android Studio
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/kartik-waghmare-450a9a261/ 
+Let Gradle sync automatically.
+
+Run the App
+
+Connect a device → Run.
+
+⭐ Support
+
+If this project helped you,
+please ⭐ star the repository to support my work!
 
 
