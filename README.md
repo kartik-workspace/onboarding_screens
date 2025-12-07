@@ -53,37 +53,7 @@ This project is ideal for **real production onboarding flows**, **portfolio UI**
 
 ---
 
-## 📂 Project Structure (100% Correct Matching Your App)
 
-app/
-├── java/com/example/visithealthapplication/
-│ ├── MainActivity.kt
-│ │
-│ ├── onboarding/
-│ │ ├── ui/
-│ │ │ ├── OnboardingFlow.kt
-│ │ │ │
-│ │ │ ├── screens/
-│ │ │ │ ├── ScreenFirst.kt
-│ │ │ │ ├── ScreenSecond.kt
-│ │ │ │ └── ScreenThird.kt
-│ │ │ │
-│ │ │ ├── components/
-│ │ │ │ └── DotsIndicator.kt
-│ │ │
-│ │ └── (Future: theme, navigation, etc.)
-│
-├── res/
-│ ├── drawable/ (all PNG/SVG assets)
-│ ├── font/ (Montserrat fonts)
-│ ├── raw/ (Lottie JSON + demo video)
-│ ├── values/strings.xml
-│ └── mipmap/
-│
-└── AndroidManifest.xml
-
-yaml
-Copy code
 
 ---
 
@@ -133,7 +103,6 @@ Android Developer • Jetpack Compose • Motion UI
 📍 Pune, India
 
 🔗 LinkedIn:
-https://www.linkedin.com/in/kartik-waghmare-450a9a261/
+https://www.linkedin.com/in/kartik-waghmare-450a9a261/ 
 
-📸 Instagram:
-https://instagram.com/articulatekartik
+
