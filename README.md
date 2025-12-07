@@ -17,47 +17,41 @@
 
 ---
 
-## 🎥 Live Demo Video  
+## 🎥 Demo Video  
+▶️ **Watch the full onboarding animation here:**  
+https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_video.mp4
 
-<a href="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_video.mp4">
-    <img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_one.jpeg" width="600" />
-    <br>
-    ▶️ **Click Here to Watch Full Demo**
-</a>
+---
+
+## 📸 Screenshots (All Screens in One Column)
+
+### **Screen 1**
+<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_one.jpeg" width="350"/>
+
+### **Screen 2**
+<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_two.jpeg" width="350"/>
+
+### **Screen 3**
+<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_three.jpeg" width="350"/>
 
 </div>
 
 ---
 
-## 📸 Screenshots
-
-### **Screen 1**
-<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_one.jpeg" width="350"/>
-
----
-
-### **Screen 2**
-<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_two.jpeg" width="350"/>
-
----
-
-### **Screen 3**
-<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_three.jpeg" width="350"/>
-
----
-
 ## 🎯 Overview
 
-This project demonstrates a **high-quality animated onboarding experience** built with:
+This project showcases a **premium, smooth, animated onboarding flow** built entirely using Jetpack Compose.
 
-- Smooth shared element transitions (robot → trophy → gift)
-- Lottie animated gradient star backgrounds  
-- Crisp motion easing & multi-screen animation flow  
-- Premium glossy image buttons  
-- Custom Montserrat typography  
-- Clean modular architecture  
+It includes:
 
-A fully production-ready onboarding experience.
+- Shared element transitions (Robot → Trophy → Gift)
+- Animated gradient star backgrounds using Lottie
+- Custom Montserrat fonts  
+- Glossy image-based CTA buttons  
+- Smooth easing animations & motion physics  
+- Clean modular code structure  
+
+Perfect for high-quality onboarding in fitness, wellness, step-tracking, or gamified apps.
 
 ---
 
@@ -67,10 +61,14 @@ A fully production-ready onboarding experience.
 - **Jetpack Compose**
 - **Material 3**
 - **Lottie Animations**
-- **Custom Fonts**
-- **Compose Motion Animations**
+- **Custom Fonts (Montserrat)**
+- **Motion & Shared Element Animations**
 
 ---
+
+## 📁 Project Structure
+
+
 
 ## 🚀 Getting Started
 
