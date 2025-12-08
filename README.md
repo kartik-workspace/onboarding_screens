@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- GIF Preview -->
-<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_gif.gif" width="180"/>
+<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_gif.gif" width="350"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 ---
 
 ## 🎥 Demo Video  
-▶️ **Watch the full onboarding animation:**  
+▶️ Watch the full onboarding animation:  
 https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_video.mp4
 
 ---
@@ -45,16 +45,38 @@ https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/
 
 ## 🎯 Overview
 
-Step-a-thon is a **high-end animated onboarding experience** built using **Jetpack Compose**, focusing on premium UI motion, smooth transitions, and clean modular code.
+Step-a-thon is a **premium animated onboarding experience** designed using **Jetpack Compose** and motion-based UI transitions.
 
-### ✨ Highlights
+A core highlight is the **floating animated starburst background**, powered by:
 
-- 🔄 Shared element transitions  
-- 🌌 Lottie-based animated gradient background  
-- ✍️ Custom Montserrat typography  
-- 🟣 Glossy image-based CTA buttons  
-- ⚡ Smooth physics-based animations  
-- 🧩 Modular, maintainable code structure  
+📁 `challenges_star.json`  
+➡ Located in: `/app/src/main/res/raw/challenges_star.json`  
+
+This JSON file animates the `challenges_star_bg.png` with rotation, glow, and pulsating effects across multiple onboarding screens.
+
+---
+
+## ✨ Key Features
+
+- Shared element transitions  
+  Robot → Trophy → Gift smooth motion  
+- Animated starburst background using Lottie JSON  
+- Montserrat font family support  
+- Premium image-based CTA buttons  
+- Smooth Compose transition animations  
+- Modular + clean architecture  
+
+---
+
+## 🛠 Animation Assets
+
+| Asset | Purpose | Path |
+|------|---------|------|
+| `challenges_star.json` | Controls motion of animated background | `res/raw/` |
+| `challenges_star_bg.png` | Base static radial glow | `res/drawable/` |
+| `trophy.png` | Shared transition (Screen 1 → 2) | `res/drawable/` |
+| `gift_box.png` | Shared transition (Screen 2 → 3) | `res/drawable/` |
+| `robot.png` | Screen 1 character | `res/drawable/` |
 
 ---
 
@@ -64,8 +86,8 @@ Step-a-thon is a **high-end animated onboarding experience** built using **Jetpa
 - Jetpack Compose  
 - Material 3  
 - Lottie Animations  
-- Montserrat Fonts  
-- Shared Element Animations  
+- Shared Element Transitions  
+- Custom Montserrat Fonts  
 
 ---
 
@@ -73,13 +95,32 @@ Step-a-thon is a **high-end animated onboarding experience** built using **Jetpa
 
 ```
 app/
- ├── ui/
- │   ├── screens/
- │   ├── components/
- │   ├── animations/
- │   └── theme/
- ├── data/
- └── MainActivity.kt
+ ├── src/main/java/com/example/visithealthapplication/
+ │    ├── onboarding/
+ │    │      ├── ui/
+ │    │      │     ├── OnboardingFlow.kt
+ │    │      │     ├── screens/
+ │    │      │     │     ├── ScreenFirst.kt
+ │    │      │     │     ├── ScreenSecond.kt
+ │    │      │     │     └── ScreenThird.kt
+ │    │      │     ├── components/
+ │    │      │     │     └── DotsIndicator.kt
+ │    │      │     └── theme/
+ │    │
+ │    └── MainActivity.kt
+ │
+ ├── src/main/res/
+ │    ├── drawable/ (images)
+ │    ├── raw/
+ │    │     ├── challenges_star.json
+ │    │     ├── onboarding_video.mp4
+ │    │     ├── screen_one.jpeg
+ │    │     ├── screen_two.jpeg
+ │    │     └── screen_three.jpeg
+ │    ├── font/ (Montserrat fonts)
+ │    └── values/
+ │
+ └── AndroidManifest.xml
 ```
 
 ---
@@ -94,11 +135,12 @@ git clone https://github.com/kartik-workspace/onboarding_screens.git
 
 ### Run
 
-Open in Android Studio → Allow Gradle Sync → Run the App.
+Open in **Android Studio**, let Gradle sync, and click **Run ▶**.
 
 ---
 
 ## ⭐ Support
 
-If you found this useful, please consider giving a **⭐ star** to the repository!
+If you found this project helpful or inspiring,  
+please support it with a **⭐ star** on GitHub!
 
