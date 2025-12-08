@@ -13,6 +13,11 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20" />
 </a>
 
+<br/><br/>
+
+<!-- GIF Preview -->
+<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_gif.gif" width="350"/>
+
 </div>
 
 ---
