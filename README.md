@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- GIF Preview -->
-<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_gif.gif" width="350"/>
+<img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/onboarding_gif.gif" width="180"/>
 
 </div>
 
