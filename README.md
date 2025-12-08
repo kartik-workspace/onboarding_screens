@@ -5,8 +5,13 @@
 📍 Noida, India  
 
 ### 🌐 Connect with me  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg)](https://www.linkedin.com/in/kartik-waghmare-450a9a261/)  
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg)](https://www.instagram.com/mr_illusionist_kartik/)
+<a href="https://www.linkedin.com/in/kartik-waghmare-450a9a261/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/mr_illusionist_kartik/">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="20" />
+</a>
 
 </div>
 
