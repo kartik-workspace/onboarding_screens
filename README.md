@@ -5,7 +5,7 @@
 📍 Noida, India  
 
 ### 🌐 Connect with me  
-<a href="https://www.linkedin.com/in/kartik-waghmare-450a9a261/">
+<a href="https://www.linkedin.com/in/kartikwaghmare/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" />
 </a>
 &nbsp;&nbsp;
