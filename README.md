@@ -31,9 +31,9 @@ https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/
 ## 📸 Screenshots (All Screens in One Row)
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_one.jpeg" width="250"/>
-    <img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_two.jpeg" width="250"/>
-    <img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_three.jpeg" width="250"/>
+    <img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_one.jpeg" width="200"/>
+    <img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_two.jpeg" width="200"/>
+    <img src="https://github.com/kartik-workspace/onboarding_screens/blob/master/app/src/main/res/raw/screen_three.jpeg" width="200"/>
 </div>
 
 ---
